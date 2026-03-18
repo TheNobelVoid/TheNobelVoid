@@ -1,76 +1,55 @@
-# Hi there, I'm Jeremy 🚀
+# Jeremy Polo
 
-### Code Tinkerer | Curiosity-Driven Developer | Professional "Let's See How This Works" Enthusiast
+**Systems Programmer · C++20 & Linux**
 
-*Building stuff just to figure out how stuff works* 🔧
+I build low-level software, CLI tools, and performance-focused solutions.
+Modern C++20, STL exclusively, zero external dependencies — on Arch Linux, in Neovim, every day.
 
 ---
 
-## 🤔 What I Do
+## Stack
 
-I write code for one reason: **curiosity**. If something looks technically challenging or makes me wonder "how does that even work?", I'm already halfway through rebuilding it.
+![C++](https://img.shields.io/badge/C++20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-I'm that person who:
-- 🧩 Takes things apart to see the pieces
-- ⚡ Gets excited about optimization rabbit holes
-- 🎯 Codes like I'm solving a puzzle (because I am)
-- 🧼 Believes clean code is happy code
-- 🔬 Treats programming like a science experiment
+---
+
+## What I work on
 
 ```cpp
-while (curious) {
-    learn();
+while (alive) {
+    read();
     build();
     break_it();
+    understand_why();
     fix_it();
-    optimize();
-    repeat();
 }
 ```
 
-## 💻 My Playground
-
-**Languages I Speak** (to computers, anyway)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-*C++ is my main squeeze, Python's my side quest*
-
-**Tools I Actually Use**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-
-Windows + Visual Studio Community — where C++ feels at home
-
-## 🌎 Random Facts
-
-- 📍 Based in Panama 🇵🇦
-- 🗣️ Fluent in Spanish, survival-level English
-- 🎮 If it can be simulated, I'll probably try to code it
-- 🐛 More time debugging = more learning (that's my story and I'm sticking to it)
-
-## 💭 Current Status
-
-```python
-status = {
-    "working_on": "Whatever caught my attention today",
-    "learning": "How things break (and how to unbreak them)",
-    "vibe": "Perpetually curious 🔍"
-}
-```
+- Low-level systems and CLI tools
+- Performance optimization and debugging
+- Linux automation and scripting
+- Clean, maintainable, well-documented code
 
 ---
 
-<p align="center">
-  <i>"The best way to understand something is to break it and rebuild it from scratch"</i>
-  <br>
-  <i>- Me, probably after breaking production</i>
-</p>
+## Available for work
 
-<p align="center">
-  💡 <b>Fun fact:</b> This README was also built out of curiosity
-</p>
+I'm open to freelance projects involving C++, Linux, or Bash.
+
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com)
+
+---
+
+## About
+
+- 📍 David, Panama
+- 🗣️ Spanish (native) · English (written)
+- 🖥️ Arch Linux · Neovim · Terminal
+- 🔧 I prefer understanding the *why* over memorizing the *how*
