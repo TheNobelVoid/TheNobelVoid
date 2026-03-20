@@ -1,4 +1,4 @@
-# Jeremy Polo
+# Jeremy Nobel
 
 **Systems Programmer · C++20 & Linux**
 
